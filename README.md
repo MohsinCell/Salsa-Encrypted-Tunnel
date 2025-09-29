@@ -30,7 +30,7 @@ Salsa is a lightweight, research-grade encrypted tunnel using the **Deimos Ciphe
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/salsa-tunnel.git
+git clone https://github.com/MohsinCell/Salsa-Encrypted-Tunnel.git
 cd src
 ```
 
