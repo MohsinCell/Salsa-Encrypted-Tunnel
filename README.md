@@ -1,12 +1,8 @@
-# Salsa – Encrypted Tunnel
+# SALSA – Encrypted Tunnel
 
 A secure encrypted tunnel built around **Deimos Cipher**. This repository contains server and client components, a Tunnel Manager, and a GUI to start/stop services and monitor traffic.
 
 ---
-
-## Project Title
-
-**Salsa – Encrypted Tunnel** — Encrypted tunnel using Deimos Cipher (Python + C++ backend)
 
 ## Short Description
 
